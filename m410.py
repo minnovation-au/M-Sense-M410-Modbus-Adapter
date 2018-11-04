@@ -2,11 +2,10 @@
 ###                                                ###
 ### M410 ch1.py V0.1                               ###
 ### For operating Modbus to Serial Adapter         ###
-###                                                ###
 ### Created By Simon Maselli                       ###
 ### 24 July 2017                                   ###
-###                                                ###
 ### Copyright Minnovation 2017                     ###
+###                                                ###
 ######################################################
 
 from uModBus.serial import Serial
